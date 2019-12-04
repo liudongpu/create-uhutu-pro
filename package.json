@@ -16,7 +16,6 @@
     "url": "https://github.com/liudongpu/create-uhutu-pro/issues"
   },
   "homepage": "https://github.com/liudongpu/create-uhutu-pro#readme",
-   
   "devDependencies": {
     "typescript": "^3.7.2"
   }
