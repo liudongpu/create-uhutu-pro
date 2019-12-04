@@ -1,0 +1,23 @@
+{
+  "name": "create-uhutu-pro",
+  "version": "1.0.0",
+  "description": "create pro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liudongpu/create-uhutu-pro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liudongpu/create-uhutu-pro/issues"
+  },
+  "homepage": "https://github.com/liudongpu/create-uhutu-pro#readme",
+   
+  "devDependencies": {
+    "typescript": "^3.7.2"
+  }
+}
